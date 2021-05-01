@@ -5,4 +5,5 @@ copy one file from one pace to another,
 delete a file given a specific path,
 delete a file and any copies from a directory,
 find all instances of keywords in a file or in a directory,
-copy and paste a file to another directory
+copy and paste a file to another directory,
+Happy testing!
